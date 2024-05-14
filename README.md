@@ -1,6 +1,5 @@
 # Tank Clash
-A simple project inspired by the browser game [Diep.io](https://diep.io/)\
-Later it expanded into the mini horror story game [Diep.exe](https://youtu.be/iB0aWO2zRMQ?si=ugqESiSGe0vwWTKw)
+A simple project inspired by the browser game [Diep.io](https://diep.io/)
 
 ### Gameplay:
 
